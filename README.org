@@ -1,0 +1,10 @@
+* texp
+
+TEXP is a domain specific language for producing TeX documents with Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/eugeneia/texp.git   |
+| commit  | 3b52414  |
+| systems | texp |
+|---------+-------------------------------------------|
+
